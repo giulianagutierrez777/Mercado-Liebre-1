@@ -1,0 +1,29 @@
+.header__subtitulo{
+    text-align: center;
+    padding: 2px;
+    margin: 3px;
+}
+header{
+    background-color: var(--colorAmarillo);
+}
+.header__sup{
+    margin: 5px;
+}
+.header__lista--uno{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 1%;
+}
+.header__lista--dos{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 1%;
+}
+.burger-menu{
+    display: block;
+    margin:auto;
+    padding-left: 45%;
+    padding-right: 45%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
